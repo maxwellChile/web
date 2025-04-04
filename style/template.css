@@ -27,7 +27,7 @@ body { margin: 0; padding: 0; text-align: left; height: 100%; }
 @media (max-width: 1149.9px) and (min-width: 720.0px) {
 		#imPageExtContainer { background-image: none; background-color: rgba(255, 255, 255, 1); }
 		#imPage { padding-top: 0px; padding-bottom: 0px; min-width: 720px; }
-		#imHeaderBg { height: 90px; background-image: none; background-color: rgba(7, 19, 35, 1); }
+		#imHeaderBg { height: 90px; background-image: none; background-color: transparent; }
 		#imHeader { background-image: none; background-color: transparent; }
 		#imHeaderObjects { margin-left: auto; margin-right: auto; position: relative; height: 90px; width:720px; }
 		#imContent { align-self: start; padding: 0px 0 0px 0; }
@@ -42,7 +42,7 @@ body { margin: 0; padding: 0; text-align: left; height: 100%; }
 @media (max-width: 719.9px) and (min-width: 480.0px) {
 		#imPageExtContainer { background-image: none; background-color: rgba(255, 255, 255, 1); }
 		#imPage { padding-top: 0px; padding-bottom: 0px; min-width: 480px; }
-		#imHeaderBg { height: 90px; background-image: none; background-color: rgba(7, 19, 35, 1); }
+		#imHeaderBg { height: 90px; background-image: none; background-color: transparent; }
 		#imHeader { background-image: none; background-color: transparent; }
 		#imHeaderObjects { margin-left: auto; margin-right: auto; position: relative; height: 90px; width:480px; }
 		#imContent { align-self: start; padding: 0px 0 0px 0; }
@@ -57,7 +57,7 @@ body { margin: 0; padding: 0; text-align: left; height: 100%; }
 @media (max-width: 479.9px)  {
 		#imPageExtContainer { background-image: none; background-color: rgba(255, 255, 255, 1); }
 		#imPage { padding-top: 0px; padding-bottom: 0px; }
-		#imHeaderBg { height: 90px; background-image: none; background-color: rgba(7, 19, 35, 1); }
+		#imHeaderBg { height: 90px; background-image: none; background-color: transparent; }
 		#imHeader { background-image: none; background-color: transparent; }
 		#imHeaderObjects { margin-left: auto; margin-right: auto; position: relative; height: 90px; width:320px; }
 		#imContent { align-self: start; padding: 0px 0 0px 0; }
