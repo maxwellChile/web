@@ -13,9 +13,10 @@
 		<link rel="stylesheet" href="style/style.css?2022-3-7-0" media="screen,print" />
 		<link rel="stylesheet" href="style/template.css?2022-3-7-0" media="screen" />
 		<style type="text/css">#pluginAppObj_07 { width: 100%; }</style>
+		<style type="text/css">#pluginAppObj_31 { width: 100%; }</style>
 		
 		<link rel="stylesheet" href="pluginAppObj/imFooter_pluginAppObj_02/custom.css" media="screen, print" />
-		<link rel="stylesheet" href="pcss/index.css?2022-3-7-0-638793764623294226" media="screen,print" />
+		<link rel="stylesheet" href="pcss/index.css?2022-3-7-0-638793797742898330" media="screen,print" />
 		<script src="res/jquery.js?2022-3-7-0"></script>
 		<script src="res/x5engine.js?2022-3-7-0" data-files-version="2022-3-7-0"></script>
 		
@@ -158,22 +159,17 @@ $(function () {$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSep
 						</div></div></div>
 						</div>
 						<div id="imCell_1" class=""  data-responsive-sequence-number="1"> <div id="imCellStyleGraphics_1"></div><div id="imCellStyleBorders_1"></div><div id="imTextObject_01">
-							<div id="imTextObject_01_tab0" class="grid-prop current-tab" style="opacity: 1; text-align: left; overflow: hidden;"><div data-index="0" class="text-tab-content grid-prop current-tab text-inner" style="opacity: 1; " ><div class="imTACenter"><span class="fs48lh1-5 cf1">MaxwellChile </span></div><div class="imTACenter"><span class="fs22lh1-5 cf1 cb1">Transformamos la luz solar y eólica en &nbsp;energía de alta eficiencia</span></div><div class="imTACenter"><br></div></div></div>
-						<script>
-						function loadimTextObject_01_tab0() {
-							var box = $("#imTextObject_01_tab0 .text-inner");
-							var data = box.data('imRollover');
-							if (data != null) { data.disable(); }
-							x5engine.imRollover({"id": "#imTextObject_01_tab0 .text-inner", "movement": "SINGLE", "direction": "BOTTOM", "effect": "LINEAR", "height": 150, "time": 7, "autostart": true, "mouselock": false});
-						}
-						x5engine.boot.push(loadimTextObject_01_tab0);
-						</script>
+							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_01_tab0" style="opacity: 1; ">
+								<div class="text-inner">
+									<div class="imTACenter"><span class="fs48lh1-5 cf1">MaxwellChile </span></div><div class="imTACenter"><span class="fs22lh1-5 cf1 cb1">Transformamos la luz solar y eólica en &nbsp;energía de alta eficiencia</span></div><div class="imTACenter"><br></div>
+								</div>
+							</div>
 						
 						</div>
 						</div><div id="imPageRow_2" class="imPageRow">
 						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_2"></div></div>
 						</div>
-						<div id="imCell_3" class=""  data-responsive-sequence-number="2"> <div id="imCellStyleGraphics_3"></div><div id="imCellStyleBorders_3"></div><div id="imTextObject_03">
+						<div id="imCell_3" class="animable fadeIn"  data-responsive-sequence-number="2"> <div id="imCellStyleGraphics_3"></div><div id="imCellStyleBorders_3"></div><div id="imTextObject_03">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_03_tab0" style="opacity: 1; ">
 								<div class="text-inner">
 									<div class="imHeading1"><span class="imUl">Quienes somos</span></div><div data-line-height="2" class="lh2 imTALeft mb1"><b></b></div><div><div class="imTAJustify"><span class="fs16lh1-5">MaxwellChile somos una empresa comprometida con <span class="imTAJustify">las energías renovables y soluciones eco amigables con el medio ambiente, sosteniendo un compromiso serio y responsable para proveer soluciones que disminuyan el consumo energético en hogares y empresas a través de sistemas fotovoltaicos eco amigables y sistemas eólicos de alto rendimiento.</span></span></div><div><div class="imTAJustify"><span class="fs16lh1-5">Contamos &nbsp;con un grupo multidisciplinario de &nbsp;profesionales en el aréa, para así garantizar un sistema altamente eficiente y cumpliendo todas las normas establecidas, todos nuestros colaboradores cuentan con certificación SEC.</span></div></div></div>
@@ -181,7 +177,15 @@ $(function () {$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSep
 							</div>
 						
 						</div>
-						</div><div id="imPageRow_3" class="imPageRow imParallax">
+						</div>
+						<script>
+							x5engine.boot.push(function () {
+								x5engine.utils.onElementInViewPort($('#imCell_3').get(0), function () {
+									x5engine.utils.revealObject($("#imCell_3"))
+								}, 100);
+							});
+						</script>
+						<div id="imPageRow_3" class="imPageRow imParallax">
 						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_3" class="imParallaxBackground" data-parallax-direction="down" data-parallax-zoom="240"></div></div>
 						</div>
 						<div id="imCell_7" class=""  data-responsive-sequence-number="3"> <div id="imCellStyleGraphics_7"></div><div id="imCellStyleBorders_7"></div><!-- Simple Separator v.2 --><div id="pluginAppObj_07">
@@ -203,7 +207,7 @@ $(function () {$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSep
 						<div id="imCell_29" class=""  data-responsive-sequence-number="4"> <div id="imCellStyleGraphics_29"></div><div id="imCellStyleBorders_29"></div><div id="imTextObject_29">
 							<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imTextObject_29_tab0" style="opacity: 1; ">
 								<div class="text-inner">
-									<div class="imHeading1">Sistemas Fotovoltaico</div><div class="imTAJustify"><span class="fs14lh1-5">Diseñamos e instalamos sistemas fotovoltaicos ya sea residenciales, comerciales o industriales, nuestro equipo está altamente calificado para asesorarlo y entregarle la mejor solución a sus necesidades, tenemos s<span class="imTAJustify">istemas solares integrados autónomos o semi - autónomos &nbsp;pequeña, mediana y gran empresa, en sectores como el agrícola, industrial o manufacturero, como de servicio cuyo consumo energético sea elevado. Estudio detallado y analítico de acuerdo al espacio para la instalación del sistema solar en búsqueda de la reducción de consumo energético. </span></span></div><div class="imTAJustify"><div class="imHeading1 imTAJustify">Sistemas Eólicos</div><div><div><div style="text-align: start;"><span class="fs14lh1-5">La energía eólica sigue siendo la tecnología más eficiente para producir energía de forma segura y ambientalmente sostenible: sin emisiones, autóctona, inagotable, competitiva y creadora de riqueza y empleo.</span></div></div><div><span class="fs14lh1-5">Los generadores eólicos o aerogeneradores son utilizados para alimentar cargas menores o como apoyo en sistemas fotovoltaicos aprovechando la energía del viento en zonas costeras o el sur del país. Estos equipos requieren de cierta velocidad del viento para poder girar y generar energía. Poseen un freno centrífugo que por sobre cierta velocidad, éste se activa para proteger las aspas del aerogenerador. Estos crean corriente alterna trifásica e incorporan un regulador de carga, el cual transforma esta energía en corriente continua para poder cargar un banco de baterías del tipo plomo ácido (AGM, Gel o Plomo ácido vaso abierto).</span></div></div></div>
+									<div class="imHeading1">Sistemas Fotovoltaico</div><div class="imTAJustify"><span class="fs14lh1-5">Diseñamos e instalamos sistemas fotovoltaicos ya sea residenciales, comerciales o industriales, nuestro equipo está altamente calificado para asesorarlo y entregarle la mejor solución a sus necesidades, tenemos s<span class="imTAJustify">istemas solares integrados autónomos o semi - autónomos &nbsp;pequeña, mediana y gran empresa, en sectores como el agrícola, industrial o manufacturero, como de servicio cuyo consumo energético sea elevado. Estudio detallado y analítico de acuerdo al espacio para la instalación del sistema solar en búsqueda de la reducción de consumo energético. </span></span></div><div class="imTAJustify"><div class="imHeading1 imTAJustify">Sistemas Eólicos</div><div><div><div class="imTAJustify"><span class="fs14lh1-5">La energía eólica sigue siendo la tecnología más eficiente para producir energía de forma segura y ambientalmente sostenible: sin emisiones, autóctona, inagotable, competitiva y creadora de riqueza y empleo.</span></div></div><div><span class="fs14lh1-5">Los generadores eólicos o aerogeneradores son utilizados para alimentar cargas menores o como apoyo en sistemas fotovoltaicos aprovechando la energía del viento en zonas costeras o el sur del país. Estos equipos requieren de cierta velocidad del viento para poder girar y generar energía. Poseen un freno centrífugo que por sobre cierta velocidad, éste se activa para proteger las aspas del aerogenerador. Estos crean corriente alterna trifásica e incorporan un regulador de carga, el cual transforma esta energía en corriente continua para poder cargar un banco de baterías del tipo plomo ácido (AGM, Gel o Plomo ácido vaso abierto).</span></div></div></div>
 								</div>
 							</div>
 						
@@ -275,7 +279,10 @@ $(function () {$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSep
 							<a href="gallery/pinwheels-6560020_1920.jpg" onclick="return x5engine.imShowBox(showbox_imObjectGallery_30, 7, this)"><img src="gallery/pinwheels-6560020_1920_thumb.png" style="" alt="" width="370" height="370" /></a>
 							<a href="gallery/pixabay-862602.jpg" onclick="return x5engine.imShowBox(showbox_imObjectGallery_30, 8, this)"><img src="gallery/pixabay-862602_thumb.png" style="" alt="" width="370" height="370" /></a>
 						</div></div><div class="imRightArrow"></div></div>
+						</div><div id="imPageRow_6" class="imPageRow">
+						<div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; overflow: hidden;"><div id="imPageRowGraphics_6" class="imContentDataContainer"></div></div>
 						</div>
+						<div id="imCell_31"></div>
 					</main>
 					<footer id="imFooter">
 						<div id="imFooterObjects"><div id="imFooter_imTextObject_01_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_01">
@@ -296,7 +303,7 @@ $(function () {$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSep
                 <script>
                     socialicons_imFooter_pluginAppObj_02();
                 </script>
-        </div></div><div id="imFooter_imObjectForm_03_wrapper" class="template-object-wrapper"><div id="imFooter_imObjectForm_03">	<form id="imObjectForm_3_form" action="imemail/imEmailForm_dlztrzac.php" method="post" enctype="multipart/form-data">
+        </div></div><div id="imFooter_imObjectForm_03_wrapper" class="template-object-wrapper"><div id="imFooter_imObjectForm_03">	<form id="imObjectForm_3_form" action="imemail/imEmailForm_yu33g303.php" method="post" enctype="multipart/form-data">
 		<fieldset class="first">
 		<div>
 			<div id="imObjectForm_3_1_container" class="imObjectFormFieldContainer"><div id="imObjectForm_3_1_field">
@@ -321,7 +328,7 @@ $(function () {$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSep
 		</div>
 	</form>
 </div>
-<script>x5engine.boot.push('x5engine.imForm.initForm(\'#imObjectForm_3_form\', false, {jsid: \'45E64639B8431E0B27A2ADFCB710768C\', type: \'tip\', showAll: true, classes: \'validator\', landingPage: \'index.html\', phpAction: \'imemail/imEmailForm_dlztrzac.php\', feedbackMode: \'showPage\', messageBackground: \'rgba(55, 71, 79, 1)\', messageBackgroundBlur: false, labelColor: \'rgba(7, 19, 35, 1)\', fieldColor: \'rgba(7, 19, 35, 1)\', selectedFieldColor: \'rgba(7, 19, 35, 1)\'})');</script>
+<script>x5engine.boot.push('x5engine.imForm.initForm(\'#imObjectForm_3_form\', false, {jsid: \'45E64639B8431E0B27A2ADFCB710768C\', type: \'tip\', showAll: true, classes: \'validator\', landingPage: \'index.html\', phpAction: \'imemail/imEmailForm_yu33g303.php\', feedbackMode: \'showPage\', messageBackground: \'rgba(55, 71, 79, 1)\', messageBackgroundBlur: false, labelColor: \'rgba(7, 19, 35, 1)\', fieldColor: \'rgba(7, 19, 35, 1)\', selectedFieldColor: \'rgba(7, 19, 35, 1)\'})');</script>
 </div><div id="imFooter_imTextObject_04_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_04">
 	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_04_tab0" style="opacity: 1; ">
 		<div class="text-inner">
