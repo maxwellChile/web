@@ -1,7 +1,7 @@
 <?php
 include("../res/x5engine.php");
-$nameList = array("yy5","6e3","s5c","gl4","che","ksx","e7c","rau","lms","eam");
-$charList = array("F","F","F","T","D","E","W","D","2","Y");
+$nameList = array("dch","zwt","lay","yhd","kdm","325","g5k","xps","2vn","u6f");
+$charList = array("P","4","7","G","4","D","2","L","5","R");
 $cpt = new X5Captcha($nameList, $charList);
 //Check Captcha
 if ($_GET["action"] == "check")
