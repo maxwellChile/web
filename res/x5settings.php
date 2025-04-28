@@ -12,7 +12,7 @@ $imSettings['general'] = array(
 	'homepage_url' => 'http://localhost/index.html',
 	'icon' => '',
 	'version' => '2022.3.7.0',
-	'sitename' => 'Nuevo proyecto 9',
+	'sitename' => 'MaxwellChile',
 	'lang_code' => 'es-ES',
 	'public_folder' => '',
 	'salt' => 'qeldl63t4c5oynvyiqf7nfzpskuko6y6el',
@@ -36,8 +36,8 @@ $imSettings['password_policy'] = array(
 |	Captcha
 |-------------------------------
 */ImTopic::$captcha_code = "		<div class=\"x5captcha-wrap\">
-			<label for=\"aihd8p0l-imCpt\">Palabra de control:</label><br />
-			<input type=\"text\" id=\"aihd8p0l-imCpt\" class=\"imCpt\" name=\"imCpt\" maxlength=\"5\" />
+			<label for=\"w990q2e4-imCpt\">Palabra de control:</label><br />
+			<input type=\"text\" id=\"w990q2e4-imCpt\" class=\"imCpt\" name=\"imCpt\" maxlength=\"5\" />
 		</div>
 ";
 

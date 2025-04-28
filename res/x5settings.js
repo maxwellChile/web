@@ -13,6 +13,11 @@
 		x.cart.ui.updateWidget();
 		x.imGrid.init();
 	});
+	b.push(function () {
+		x.stickyBar({
+			enabledBreakpoints: ['ea2f0ee4d5cbb25e1ee6c7c4378fee7b']
+		});
+	});
 
 	// Links
 	$.extend(s.links, {
@@ -80,11 +85,6 @@
 		'position' : 'top',
 		'effect' : 'none',
 		'showTail' : true
-	});
-
-	// PageToTop
-	$.extend(s.imPageToTop, {
-		'imageFile' : 'style/page-to-top.png'
 	});
 
 	// Captcha
