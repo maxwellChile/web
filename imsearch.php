@@ -2,7 +2,7 @@
 <!DOCTYPE html><!-- HTML5 -->
 <html prefix="og: http://ogp.me/ns#" lang="es-ES" dir="ltr">
 	<head>
-		<title>Buscar - Nuevo proyecto 9</title>
+		<title>Buscar - MaxwellChile</title>
 		<meta charset="utf-8" />
 		<!--[if IE]><meta http-equiv="ImageToolbar" content="False" /><![endif]-->
 		<meta name="generator" content="Incomedia WebSite X5 Evo 2022.3.7 - www.websitex5.com" />
@@ -14,7 +14,7 @@
 		<link rel="stylesheet" href="style/template.css?2022-3-7-0" media="screen" />
 		
 		<link rel="stylesheet" href="pluginAppObj/imFooter_pluginAppObj_02/custom.css" media="screen, print" />
-		<link rel="stylesheet" href="pcss/imsearch.css?2022-3-7-0-638793803621341905" media="screen,print" />
+		<link rel="stylesheet" href="pcss/imsearch.css?2022-3-7-0-638814492721380501" media="screen,print" />
 		<script src="res/jquery.js?2022-3-7-0"></script>
 		<script src="res/x5engine.js?2022-3-7-0" data-files-version="2022-3-7-0"></script>
 		
@@ -22,9 +22,8 @@
 		<script>
 			window.onload = function(){ checkBrowserCompatibility('El Explorador que estás usando no es compatible con las funciones requeridas para mostrar este Sitio web.','El Navegador que estás utilizando podría no ser compatible con las funciones requeridas para poder ver este Sitio web.','[1]Actualiza tu explorador [/1] o [2]continuar de todos modos[/2].','http://outdatedbrowser.com/'); };
 			x5engine.utils.currentPagePath = 'imsearch.php';
-			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
 		</script>
-		
+		<link rel="icon" href="favicon.png?2022-3-7-0-638814492721380501" type="image/png" />
 	</head>
 	<body>
 		<div id="imPageExtContainer">
@@ -33,7 +32,7 @@
 				<div id="imFooterBg"></div>
 				<div id="imPage">
 					<header id="imHeader">
-						<h1 class="imHidden">Buscar - Nuevo proyecto 9</h1>
+						<h1 class="imHidden">Buscar - MaxwellChile</h1>
 						<div id="imHeaderObjects"><div id="imHeader_imMenuObject_02_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><div id="imHeader_imMenuObject_02"><div id="imHeader_imMenuObject_02_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
 	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
 		<div class="hamburger-menu-close-button"><span>&times;</span></div>
@@ -173,7 +172,7 @@ $(function () {$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSep
                 <script>
                     socialicons_imFooter_pluginAppObj_02();
                 </script>
-        </div></div><div id="imFooter_imObjectForm_03_wrapper" class="template-object-wrapper"><div id="imFooter_imObjectForm_03">	<form id="imObjectForm_3_form" action="imemail/imEmailForm_8p72waf8.php" method="post" enctype="multipart/form-data">
+        </div></div><div id="imFooter_imObjectForm_03_wrapper" class="template-object-wrapper"><div id="imFooter_imObjectForm_03">	<form id="imObjectForm_3_form" action="imemail/imEmailForm_bw5nwelp.php" method="post" enctype="multipart/form-data">
 		<fieldset class="first">
 		<div>
 			<div id="imObjectForm_3_1_container" class="imObjectFormFieldContainer"><div id="imObjectForm_3_1_field">
@@ -198,7 +197,7 @@ $(function () {$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSep
 		</div>
 	</form>
 </div>
-<script>x5engine.boot.push('x5engine.imForm.initForm(\'#imObjectForm_3_form\', false, {jsid: \'45E64639B8431E0B27A2ADFCB710768C\', type: \'tip\', showAll: true, classes: \'validator\', landingPage: \'index.html\', phpAction: \'imemail/imEmailForm_8p72waf8.php\', feedbackMode: \'showPage\', messageBackground: \'rgba(55, 71, 79, 1)\', messageBackgroundBlur: false, labelColor: \'rgba(7, 19, 35, 1)\', fieldColor: \'rgba(7, 19, 35, 1)\', selectedFieldColor: \'rgba(7, 19, 35, 1)\'})');</script>
+<script>x5engine.boot.push('x5engine.imForm.initForm(\'#imObjectForm_3_form\', false, {jsid: \'45E64639B8431E0B27A2ADFCB710768C\', type: \'tip\', showAll: true, classes: \'validator\', landingPage: \'index.html\', phpAction: \'imemail/imEmailForm_bw5nwelp.php\', feedbackMode: \'showPage\', messageBackground: \'rgba(55, 71, 79, 1)\', messageBackgroundBlur: false, labelColor: \'rgba(7, 19, 35, 1)\', fieldColor: \'rgba(7, 19, 35, 1)\', selectedFieldColor: \'rgba(7, 19, 35, 1)\'})');</script>
 </div><div id="imFooter_imTextObject_04_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_04">
 	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_04_tab0" style="opacity: 1; ">
 		<div class="text-inner">
@@ -207,7 +206,42 @@ $(function () {$('#imStickyBar_imMenuObject_01_container ul li').not('.imMnMnSep
 	</div>
 
 </div>
-</div></div>
+</div><div id="imFooter_imHTMLObject_05_wrapper" class="template-object-wrapper"><div id="imFooter_imHTMLObject_05" class="imHTMLObject" style="text-align: center; width: 100%; overflow: hidden;"><style type="text/css">.redes-flotantes {
+position: fixed;
+right: 8px;
+top: 85%;
+z-index: 20;
+}
+.redes-flotantes img {
+float: right; clear: right;
+margin: 5px;
+-moz-transform: scale(.8) ;
+-webkit-transform: scale(.8) ;
+-o-transform: scale(.8) ;
+-ms-transform: scale(.8) ;
+transform: scale(.8) ;
+-webkit-transition: all .2s ease-in-out;
+-moz-transition: all .2s ease-in-out;
+-o-transition: all .2s ease-in-out;
+transition: all .2s ease-in-out;
+}
+.redes-flotantes img:hover {
+-moz-transform: scale(1.1) rotate(6deg);
+-webkit-transform: scale(1.1) rotate(6deg);
+-o-transform: scale(1.1) rotate(6deg);
+-ms-transform: scale(1.1) rotate(6deg);
+transform: scale(1.1) rotate(6deg);
+}</style>
+<div class='redes-flotantes'>
+
+
+<div class="separator" style="clear: both; text-align: left;"></div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: center;"></div>
+<div class="separator" style="clear: both; text-align: left;">
+<a href="http://wa.me/56982015993" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" target="_blank"><img border="0" data-original-height="59" data-original-width="59" src="https://1.bp.blogspot.com/-q3Dot9N2qac/XOQgr9etVpI/AAAAAAABT1M/6V4Bqaqr-6UQcl9Fy2_CaVgex0N_OYuQgCLcBGAs/s1600/whatsapp%2Bicono.png" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+</div></div></div></div></div>
 					</footer>
 				</div>
 				<span class="imHidden"><a href="#imGoToCont" title="Lea esta página de nuevo">Regreso al contenido</a></span>
